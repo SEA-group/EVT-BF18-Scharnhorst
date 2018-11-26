@@ -1,0 +1,9 @@
+<GGS003_105_mm_SKC_33_lod2.model>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/germany/gun/secondary/GGS526_105_mm_SKC_37_Black/lods/GGS526_105_mm_SKC_37_Black_lod3	</parent>
+	<extent>	15.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	content/gameplay/germany/gun/secondary/GGS526_105_mm_SKC_37_Black/lods/GGS526_105_mm_SKC_37_Black_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GGS003_105_mm_SKC_33_lod2.model>

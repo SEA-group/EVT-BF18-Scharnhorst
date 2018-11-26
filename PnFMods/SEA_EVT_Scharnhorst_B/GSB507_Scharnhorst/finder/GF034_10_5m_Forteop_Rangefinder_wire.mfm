@@ -1,0 +1,14 @@
+<GF034_10_5m_Forteop_Rangefinder_wire.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_EVT_Scharnhorst_B/GSB507_Scharnhorst/finder/GF034_10_5m_Forteop_Rangefinder_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_EVT_Scharnhorst_B/GSB507_Scharnhorst/finder/GF034_10_5m_Forteop_Rangefinder_n.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_EVT_Scharnhorst_B/GSB507_Scharnhorst/finder/GF034_10_5m_Forteop_Rangefinder_a.dds	</Texture>
+	</property>
+</GF034_10_5m_Forteop_Rangefinder_wire.mfm>

@@ -1,0 +1,9 @@
+<GAF015_Bf109E_float_lod2.model>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/germany/aircraft/fighter/GAF501_Bf109G_float_Black/lods/GAF501_Bf109G_float_Black_lod3	</parent>
+	<extent>	40.000000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	content/gameplay/germany/aircraft/fighter/GAF501_Bf109G_float_Black/lods/GAF501_Bf109G_float_Black_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GAF015_Bf109E_float_lod2.model>

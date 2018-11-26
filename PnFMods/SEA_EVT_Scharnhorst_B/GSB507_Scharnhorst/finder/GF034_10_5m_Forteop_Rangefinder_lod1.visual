@@ -1,0 +1,61 @@
+<GF034_10_5m_Forteop_Rangefinder_lod1.visual>
+	<boundingBox>
+		<min>	-0.367353 -0.000000 -0.092359	</min>
+		<max>	0.367353 0.129908 0.092359	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	GF034_10_5m_Forteop_Rangefinder	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	GF034_10_5m_Forteop_Rangefinder_wire	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	GF034_10_5m_Forteop_Rangefinder	</node>
+		<geometry>
+			<vertices>	GF034_10_5m_Forteop_Rangefinder_lod1Shape.vertices	</vertices>
+			<primitive>	GF034_10_5m_Forteop_Rangefinder_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<mfm>	PnFMods/SEA_EVT_Scharnhorst_B/GSB507_Scharnhorst/finder/GF034_10_5m_Forteop_Rangefinder.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	GF034_10_5m_Forteop_Rangefinder_wire	</node>
+		<geometry>
+			<vertices>	GF034_10_5m_Forteop_Rangefinder_wire_lod1Shape.vertices	</vertices>
+			<primitive>	GF034_10_5m_Forteop_Rangefinder_wire_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPWIRE_PBS_Director	</identifier>
+					<mfm>	PnFMods/SEA_EVT_Scharnhorst_B/GSB507_Scharnhorst/finder/GF034_10_5m_Forteop_Rangefinder_wire.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</GF034_10_5m_Forteop_Rangefinder_lod1.visual>
